@@ -1,0 +1,38 @@
+/* DisplayFields.css */
+
+.display-fields-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .fields-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .fields-table th, .fields-table td {
+    border: 3px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .fields-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .reset-button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: hsl(177, 90%, 40%);
+    color: rgb(11, 10, 10);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 80px;
+  }
+  
+  .reset-button:hover {
+    background-color: hsl(177, 90%, 40%);
+  }
+  
