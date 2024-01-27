@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mohit8890.github.io/Farmwiseai/static/css/main.b7352f80.css",
-    "main.js": "/mohit8890.github.io/Farmwiseai/static/js/main.0f63f357.js",
-    "static/js/787.77db3eff.chunk.js": "/mohit8890.github.io/Farmwiseai/static/js/787.77db3eff.chunk.js",
-    "index.html": "/mohit8890.github.io/Farmwiseai/index.html",
-    "main.b7352f80.css.map": "/mohit8890.github.io/Farmwiseai/static/css/main.b7352f80.css.map",
-    "main.0f63f357.js.map": "/mohit8890.github.io/Farmwiseai/static/js/main.0f63f357.js.map",
-    "787.77db3eff.chunk.js.map": "/mohit8890.github.io/Farmwiseai/static/js/787.77db3eff.chunk.js.map"
+    "main.css": "/Farmwiseai/static/css/main.b7352f80.css",
+    "main.js": "/Farmwiseai/static/js/main.a48ef80f.js",
+    "static/js/787.77db3eff.chunk.js": "/Farmwiseai/static/js/787.77db3eff.chunk.js",
+    "index.html": "/Farmwiseai/index.html",
+    "main.b7352f80.css.map": "/Farmwiseai/static/css/main.b7352f80.css.map",
+    "main.a48ef80f.js.map": "/Farmwiseai/static/js/main.a48ef80f.js.map",
+    "787.77db3eff.chunk.js.map": "/Farmwiseai/static/js/787.77db3eff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7352f80.css",
-    "static/js/main.0f63f357.js"
+    "static/js/main.a48ef80f.js"
   ]
 }
